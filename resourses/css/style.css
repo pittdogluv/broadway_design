@@ -20,8 +20,12 @@ body {
 
 .project h2{
   font-size: 32px;
-  font-weight: weight;
+  font-weight: bold;
   text-align: center;
+}
+
+.project h3 {
+  font-size: 23px;
 }
 
 .project_item p {
